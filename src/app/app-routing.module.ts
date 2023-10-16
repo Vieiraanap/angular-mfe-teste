@@ -12,15 +12,15 @@ const routes: Routes = [
         exposedModule: './Module',
       }).then((m) => m.AppModule),
   },
-  {
-    path: 'mfe-2',
-    loadChildren: () =>
-      loadRemoteModule({
-        type: 'module',
-        remoteEntry: 'http://localhost:4202/remoteEntry.js',
-        exposedModule: './Module',
-      }).then((m) => m.AppModule),
-  },
+  // {
+  //   path: 'mfe-2',
+  //   loadChildren: () =>
+  //     loadRemoteModule({
+  //       type: 'module',
+  //       remoteEntry: 'http://localhost:4202/remoteEntry.js',
+  //       exposedModule: './Module',
+  //     }).then((m) => m.AppModule),
+  // },
 ];
 
 @NgModule({
