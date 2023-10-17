@@ -7,3 +7,4 @@
 - https://developer.okta.com/blog/2022/05/17/angular-microfrontend-auth
 - https://dev.to/2020nani/desacoplando-frontend-com-module-federation-angular-parte-1-5enm
 - https://dev.to/2020nani/desacoplando-frontend-com-module-federation-angular-parte-2-4le1
+- https://blog.bitsrc.io/module-federation-vs-single-spa-47da53b67ed0
