@@ -14,3 +14,9 @@
 - https://blog.bitsrc.io/module-federation-vs-single-spa-47da53b67ed0
 - https://betterprogramming.pub/micro-frontends-using-single-spa-and-module-federation-81ec27d03aee
 - https://single-spa.js.org/docs/getting-started-overview/
+
+  ## Compartilhando temas e interface entre apps
+  - https://levelup.gitconnected.com/microfrontends-which-framework-to-use-457d5bed173e
+  - https://www.linkedin.com/pulse/microfrontends-module-federation-create-mf-app-button-rany?source=post_page-----308808bce150--------------------------------
+  - https://levelup.gitconnected.com/module-federation-microfrontends-to-share-material-ui-mui-design-components-308808bce150
+  - https://www.linkedin.com/pulse/material-ui-mui-v5-microfrontends-sharing-themes-elhousieny-phd%25E1%25B4%25AC%25E1%25B4%25AE%25E1%25B4%25B0?source=post_page-----308808bce150--------------------------------
