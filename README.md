@@ -21,3 +21,4 @@
 - https://www.linkedin.com/pulse/microfrontends-module-federation-create-mf-app-button-rany?source=post_page-----308808bce150--------------------------------
 - https://levelup.gitconnected.com/module-federation-microfrontends-to-share-material-ui-mui-design-components-308808bce150
 - https://www.linkedin.com/pulse/material-ui-mui-v5-microfrontends-sharing-themes-elhousieny-phd%25E1%25B4%25AC%25E1%25B4%25AE%25E1%25B4%25B0?source=post_page-----308808bce150--------------------------------
+- https://niteco.com/articles/designing-a-powerful-micro-frontends-architecture/
