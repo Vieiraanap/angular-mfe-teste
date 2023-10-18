@@ -3,9 +3,6 @@
 - https://auth0.com/blog/micro-frontends-with-angular-module-federation-and-auth0/
 - https://www.angulararchitects.io/en/blog/the-microfrontend-revolution-part-2-module-federation-with-angular/
 - https://developer.okta.com/blog/2022/05/17/angular-microfrontend-auth
-- https://technology.discover.com/posts/module-federation
-- https://www.harness.io/blog/micro-frontends-architecture
-- https://medium.com/@krishnakiran1992/module-federation-for-micro-frontends-8ef1b024d248
 - https://www.xenonstack.com/insights/micro-frontend-architecture
 
 ## MFE projeto teste
@@ -29,3 +26,12 @@
 
 ## MF com Angular
 - https://www.youtube.com/playlist?list=PL1UWPWOy5UlfLWfSstHBW-iVu6RWJtrG-
+
+## Compartilhamento de Código entre apps
+- https://technology.discover.com/posts/module-federation
+- https://www.harness.io/blog/micro-frontends-architecture
+- https://medium.com/@krishnakiran1992/module-federation-for-micro-frontends-8ef1b024d248
+- https://lauramarwood.medium.com/sharing-components-in-a-micro-frontend-architecture-965641e20c7c
+- https://blog.bitsrc.io/how-to-share-and-reuse-micro-frontends-f925776b06ae
+- https://www.linkedin.com/pulse/unlocking-modularity-collaboration-power-micro-ui-rany
+- https://martinfowler.com/articles/micro-frontends.html
