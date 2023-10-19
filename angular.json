@@ -93,6 +93,39 @@
           }
         }
       }
+    },
+    "shared-comp": {
+      "projectType": "library",
+      "root": "projects/shared-comp",
+      "sourceRoot": "projects/shared-comp/src",
+      "prefix": "tjac-ui",
+      "architect": {
+        "build": {
+          "builder": "@angular-devkit/build-angular:ng-packagr",
+          "options": {
+            "project": "projects/shared-comp/ng-package.json"
+          },
+          "configurations": {
+            "production": {
+              "tsConfig": "projects/shared-comp/tsconfig.lib.prod.json"
+            },
+            "development": {
+              "tsConfig": "projects/shared-comp/tsconfig.lib.json"
+            }
+          },
+          "defaultConfiguration": "production"
+        },
+        "test": {
+          "builder": "@angular-devkit/build-angular:karma",
+          "options": {
+            "tsConfig": "projects/shared-comp/tsconfig.spec.json",
+            "polyfills": [
+              "zone.js",
+              "zone.js/testing"
+            ]
+          }
+        }
+      }
     }
   }
 }
