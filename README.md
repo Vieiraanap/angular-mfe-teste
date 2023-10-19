@@ -37,3 +37,10 @@
 - https://blog.bitsrc.io/how-to-share-and-reuse-micro-frontends-f925776b06ae
 - https://www.linkedin.com/pulse/unlocking-modularity-collaboration-power-micro-ui-rany
 - https://martinfowler.com/articles/micro-frontends.html
+
+  ## Compartilhamento de ui (projeto teste)
+  - https://medium.com/@krishnakiran1992/module-federation-for-micro-frontends-8ef1b024d248
+  - https://blog.bitsrc.io/micro-frontend-implementation-with-module-federation-in-angular-508cc660c060
+  - https://blog.wgbn.com.br/criando-bibliotecas-reutiliz%C3%A1veis-para-seus-projetos-angular-7f9576c5ad2b
+  - https://web.archive.org/web/20140802161607/http://clock.co.uk/blog/how-to-create-a-private-npmjs-repository
+  - https://verdaccio.org/
