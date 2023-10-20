@@ -3,7 +3,6 @@
 - https://auth0.com/blog/micro-frontends-with-angular-module-federation-and-auth0/
 - https://www.angulararchitects.io/en/blog/the-microfrontend-revolution-part-2-module-federation-with-angular/
 - https://developer.okta.com/blog/2022/05/17/angular-microfrontend-auth
-- https://module-federation.github.io/videos
 
 ## MFE projeto teste
 - https://dev.to/2020nani/desacoplando-frontend-com-module-federation-angular-parte-1-5enm
@@ -47,3 +46,7 @@
 - https://www.xenonstack.com/insights/micro-frontend-architecture
 - https://www.ramotion.com/blog/micro-frontends/
 - https://www.tabnews.com.br/tocodando/criando-uma-boa-arquitetura-micro-front-end
+
+## Vídeo aulas MFE
+- https://module-federation.github.io/videos
+- https://www.youtube.com/watch?v=ox0aoy2KHK0
