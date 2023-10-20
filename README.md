@@ -1,5 +1,7 @@
 # MfeBidirecional
-https://www.youtube.com/watch?v=ox0aoy2KHK0
+- https://www.youtube.com/watch?v=ox0aoy2KHK0
+- https://stackoverflow.com/questions/68113581/how-to-dynamically-load-a-component-in-angular-via-module-federation
+- https://stackoverflow.com/questions/58633214/cannot-read-property-createcomponent-of-undefined-in-ngafterviewinit
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.9.
 
