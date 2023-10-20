@@ -4,8 +4,6 @@
 - https://www.angulararchitects.io/en/blog/the-microfrontend-revolution-part-2-module-federation-with-angular/
 - https://developer.okta.com/blog/2022/05/17/angular-microfrontend-auth
 - https://module-federation.github.io/videos
-- https://www.xenonstack.com/insights/micro-frontend-architecture
-- https://www.ramotion.com/blog/micro-frontends/
 
 ## MFE projeto teste
 - https://dev.to/2020nani/desacoplando-frontend-com-module-federation-angular-parte-1-5enm
@@ -44,3 +42,8 @@
   - https://blog.wgbn.com.br/criando-bibliotecas-reutiliz%C3%A1veis-para-seus-projetos-angular-7f9576c5ad2b
   - https://web.archive.org/web/20140802161607/http://clock.co.uk/blog/how-to-create-a-private-npmjs-repository
   - https://verdaccio.org/
+
+## MF boas práticas
+- https://www.xenonstack.com/insights/micro-frontend-architecture
+- https://www.ramotion.com/blog/micro-frontends/
+- https://www.tabnews.com.br/tocodando/criando-uma-boa-arquitetura-micro-front-end
