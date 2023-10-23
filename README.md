@@ -1,8 +1,6 @@
 # MfeHost
 
-- https://auth0.com/blog/micro-frontends-with-angular-module-federation-and-auth0/
 - https://www.angulararchitects.io/en/blog/the-microfrontend-revolution-part-2-module-federation-with-angular/
-- https://developer.okta.com/blog/2022/05/17/angular-microfrontend-auth
 
 ## MFE projeto teste
 - https://dev.to/2020nani/desacoplando-frontend-com-module-federation-angular-parte-1-5enm
@@ -50,3 +48,11 @@
 ## Vídeo aulas MFE
 - https://module-federation.github.io/videos
 - https://www.youtube.com/watch?v=ox0aoy2KHK0
+
+## Autenticação
+- https://auth0.com/blog/micro-frontends-with-angular-module-federation-and-auth0/#Authentication-for-Micro-Frontends
+- https://developer.okta.com/blog/2022/05/17/angular-microfrontend-auth
+- https://stackoverflow.com/questions/71813294/how-to-get-keycloak-token-in-angular-keycloak
+- https://github.com/mauriciovigolo/keycloak-angular#setup
+- https://stackoverflow.com/questions/72139388/keycloak-with-microfrontends
+- https://auth0.com/blog/micro-frontends-for-java-microservices/
